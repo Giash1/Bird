@@ -1,0 +1,15 @@
+body{
+    background-color: royalblue;
+}
+h1{
+    color: salmon;
+    text-align: left;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+footer{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    color: springgreen;
+}
